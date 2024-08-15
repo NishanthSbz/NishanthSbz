@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **FULLSTACK**
 - 💬 Ask me about **WEBDEV**
 - 📫 How to reach me **nishanthsbz05@gmail.com**
-- 👨‍💻 All of my projects are available at **https://kyras-2023.github.io/Nishanth/**
+- 👨‍💻 All of my projects are available at **https://nishanthsbz.netlify.app/**
 
 <div> <a href="https://github.com/NishanthSbz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:nishanthsbz05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
